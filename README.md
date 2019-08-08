@@ -9,8 +9,8 @@ Results:
 
 Before
 
-![Before](https://i.imgur.com/rRSrBYF.jpg) 
+![Before](https://i.imgur.com/1x47v5L.jpg) 
 
 After
 
-![After](https://i.imgur.com/6rjGn7u.png)
+![After](https://i.imgur.com/ygKYeRT.png)
