@@ -28,7 +28,7 @@ function setup() {
   bounding  = createSlider(0.001, 0.05, 0.005, 0.001).position(defaultWidth + 20, 80)
   boundingP = createP("Bounding: " + bounding.value()).position(defaultWidth + bounding.width  + 40, 65)
 
-  attraction  = createSlider(0.1, 5, 1, 0.1).position(defaultWidth + 20, 110)
+  attraction  = createSlider(0.1, 1, 1, 0.005).position(defaultWidth + 20, 110)
   attractionP = createP("Attraction: " + attraction.value()).position(defaultWidth + attraction.width  + 40, 95)
 
   workImg = new workableImage(img, defaultWidth)
@@ -42,7 +42,7 @@ function setup() {
 
 
 
-  workImg.addRandomPoints(2500)
+  workImg.addRandomPoints(800)
 
 }
 
