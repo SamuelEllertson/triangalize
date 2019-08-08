@@ -5,4 +5,4 @@ Example of Triangularize art: ![Triangularize Mona Lisa](https://mir-s3-cdn-cf.b
 
 Results: 
 
-Before ![Before](https://imgur.com/rRSrBYF) After ![After](https://i.imgur.com/lCWT0ET.png)
+Before ![Before](https://i.imgur.com/rRSrBYF.jpg) After ![After](https://i.imgur.com/lCWT0ET.png)
